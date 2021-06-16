@@ -1,4 +1,5 @@
 # LuminousTime widget for Übersicht
+- LuminousTime is an animated gradient background widget for Übersicht!
 
 ![](https://github.com/virejdasani/LuminousTime/blob/master/assets/LuminousTime0.png)
 ![](https://github.com/virejdasani/LuminousTime/blob/master/assets/LuminousTime1.png)
