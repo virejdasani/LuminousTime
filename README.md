@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/virejdasani/LuminousTime/total.svg)]()
+
 # LuminousTime widget for Übersicht
 - LuminousTime is an animated gradient background time widget for Übersicht!
 
