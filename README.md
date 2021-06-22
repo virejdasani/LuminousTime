@@ -1,4 +1,4 @@
-<!-- [![Github All Releases](https://img.shields.io/github/downloads/virejdasani/LuminousTime/total.svg)]() -->
+[![Github All Releases](https://img.shields.io/github/downloads/virejdasani/LuminousTime/total.svg)]()
 
 ### https://www.youtube.com/watch?v=fIkZ2jOVJVk
 
