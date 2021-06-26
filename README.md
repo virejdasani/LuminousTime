@@ -2,7 +2,7 @@
 
 ## Check it out on [YouTube](https://www.youtube.com/watch?v=fIkZ2jOVJVk)
 
-# [LuminousTime](https://www.youtube.com/watch?v=fIkZ2jOVJVk) widget for Übersicht
+# [LuminousTime widget for Übersicht](https://www.youtube.com/watch?v=fIkZ2jOVJVk)
 - LuminousTime is an animated gradient background time widget for Übersicht!
 
 ![](https://github.com/virejdasani/LuminousTime/blob/master/assets/LuminousTime0.png)
