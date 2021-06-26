@@ -1,8 +1,8 @@
 <!-- [![Github All Releases](https://img.shields.io/github/downloads/virejdasani/LuminousTime/total.svg)]() -->
 
-### Check it out on [YouTube](https://www.youtube.com/watch?v=fIkZ2jOVJVk)
+## Check it out on [YouTube](https://www.youtube.com/watch?v=fIkZ2jOVJVk)
 
-# LuminousTime widget for Übersicht
+# [LuminousTime](https://www.youtube.com/watch?v=fIkZ2jOVJVk) widget for Übersicht
 - LuminousTime is an animated gradient background time widget for Übersicht!
 
 ![](https://github.com/virejdasani/LuminousTime/blob/master/assets/LuminousTime0.png)
