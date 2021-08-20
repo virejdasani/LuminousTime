@@ -2,6 +2,7 @@
 # My website: https://virejdasani.github.io/virej/
 # GitHub: https://github.com/virejdasani/
 # Luminous Time on GitHub: https://github.com/virejdasani/LuminousTime
+# This project was inspired by: https://github.com/imRohan/ubersicht-morning.widget
 
 command: "finger `whoami` | awk -F: '{ print $3 }' | head -n1 | sed 's/^ // '"
 
